@@ -1,0 +1,43 @@
+*{
+  margin : 0;
+  padding : 0;
+}
+
+.header{
+  height: 52px;
+  background: rgb(0, 100, 150);
+}
+
+.icon-bar{
+  background-color: #000;
+}
+
+.navbar-style{
+  height: 52px;
+  text-transform: uppercase;
+}
+
+.logo{
+  height: 80px;
+  width: auto;
+  margin-left: 50px;
+}
+
+li a{
+  color: white;
+}
+
+body{
+  background-color: rgb(200, 200, 200);
+}
+
+div p{
+  font-size: 16px;
+}
+
+.text-center{
+  border-style: dashed;
+  border-width: 2px;
+  border-color: #000;
+  margin-bottom: 15px; 
+}
