@@ -2,6 +2,9 @@
 
 Made by Mambetkadyrov Salamatbek .<br>
 
+Has Youtube links : Done (as photos)<br>
+Is responsive : Done (via Bootstrap)<br>
+
 Bootstrap version : 4 .<br>
 Link to a web-site: https://cybersport.200104027.repl.co/ <br>
 
